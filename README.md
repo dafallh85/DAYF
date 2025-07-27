@@ -19,7 +19,7 @@ It is an intelligent robotics project that aims to develop and program intellige
 - 🌐 : [https://smartdayf.com](https://smartdayf.com)Official website
 🐦 Twitter (X): [https://x.com/smartdayf](https://x.com/smartdayf)
 - 📧 Official Email: dayf@smartdayf.com
-- 🧑‍💼 Founder on Telegram:@SSMARTDAYF
+- 🧑‍💼 Founder on Telegram DAYF :https://t.me/SSMARTDAYF
 - 📣 Telegram Channel: [https://t.me/SmartDAYF](https://t.me/SmartDAYF)
 - 👥 Community Discussions: [https://t.me/ssmartmachinesDAYF](https://t.me/ssmartmachinesDAYF)
 
