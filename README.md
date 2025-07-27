@@ -19,7 +19,7 @@ DAYF هو مشروع عملة رقمية ذكية تعمل على شبكة BNB (
 
 - 🌐 الموقع الرسمي: [https://smartdayf.com](https://smartdayf.com)
 - 🐦 تويتر (X): [https://x.com/smartdayf](https://x.com/smartdayf)
-- 📧 البريد الرسمي: `dayf@smartdayf.com`
+- 📧 البريد الرسمي: dayf@smartdayf.com
 - 🧑‍💼 المؤسس على تيليجرام: SSMARTDAYF
 - 📣 قناة تيليجرام: [https://t.me/SmartDAYF](https://t.me/SmartDAYF)
 - 👥 مناقشات المجتمع: [https://t.me/ssmartmachinesDAYF](https://t.me/ssmartmachinesDAYF)
