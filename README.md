@@ -1,34 +1,32 @@
 # DAYF
 
-هو مشروع روبوتات ذكي يهدف إلى تطوير وبرمجه روبوتات ذكية تتعلم وتتفاعل مع بيئتها المحيطة.  DAYF 
+It is an intelligent robotics project that aims to develop and program intelligent robots that learn and interact with their surrounding environment. DAYF
 # DAYF Token
 
-**رمز العملة**: DAYF  
-**شبكة العملة**: Binance Smart Chain (BEP-20)  
-**إجمالي المعروض**: 1,000,000,000 DAYF
 
----
+---**Currency Code**: DAYF
+**Currency Network**: Binance Smart Chain (BEP-20)
+**Total Supply**: 1,000,000,000 DAYF
 
 ## 💡 ما هي DAYF؟
 
-DAYF هو مشروع عملة رقمية ذكية تعمل على شبكة BNB (BEP-20)، تهدف إلى تمكين حلول مالية آمنة وسريعة، وتكامل سهل في تطبيقات المستقبل الذكي، خصوصًا في المجالات المتعلقة بالذكاء الاصطناعي والأنظمة المؤتمتة.
+.DAYF is a smart cryptocurrency project operating on the BNB (BEP-20) network, aiming to enable secure and fast financial solutions, and easy integration into smart future applications, especially in areas related to artificial intelligence and automated systems.
 
 ---
 
 ## 🔗 روابط مهمة
 
-- 🌐 الموقع الرسمي: [https://smartdayf.com](https://smartdayf.com)
-- 🐦 تويتر (X): [https://x.com/smartdayf](https://x.com/smartdayf)
-- 📧 البريد الرسمي: dayf@smartdayf.com
-- 🧑‍💼 المؤسس على تيليجرام: SSMARTDAYF
-- 📣 قناة تيليجرام: [https://t.me/SmartDAYF](https://t.me/SmartDAYF)
-- 👥 مناقشات المجتمع: [https://t.me/ssmartmachinesDAYF](https://t.me/ssmartmachinesDAYF)
+- 🌐 : [https://smartdayf.com](https://smartdayf.com)Official website
+🐦 Twitter (X): [https://x.com/smartdayf](https://x.com/smartdayf)
+- 📧 Official Email: dayf@smartdayf.com
+- 🧑‍💼 Founder on Telegram: SSMARTDAYF
+- 📣 Telegram Channel: [https://t.me/SmartDAYF](https://t.me/SmartDAYF)
+- 👥 Community Discussions: [https://t.me/ssmartmachinesDAYF](https://t.me/ssmartmachinesDAYF)
 
 ---
+## 🔐 Smart contract code
 
-## 🔐 كود العقد الذكي
-
-تم نشر عقد عملة DAYF على BscScan ويمكن مراجعته في مجلد `contracts/DAYF.sol`.
+The DAYF contract has been published on BscScan and can be reviewed in the `contracts/DAYF.sol` folder.
 
 ---https://bscscan.com/token/0x6206dd029512fe34e8320df8e62d0e9b5a04659a
 
