@@ -1,4 +1,4 @@
-# DAYF
+# ✨DAYF
 
 It is an intelligent robotics project that aims to develop and program intelligent robots that learn and interact with their surrounding environment. DAYF
 # DAYF Token
