@@ -16,12 +16,33 @@ It is an intelligent robotics project that aims to develop and program intellige
 
 ## 🔗 روابط مهمة
 
-- 🌐 : [https://smartdayf.com](https://smartdayf.com)Official website
-_ 🐦 Twitter (X): [https://x.com/smartdayf](https://x.com/smartdayf)
-- 📧 Official Email: dayf@smartdayf.com
-- 🧑‍💼 Founder on Telegram DAYF :https://t.me/SSMARTDAYF
-- 📣 Telegram Channel: [https://t.me/SmartDAYF](https://t.me/SmartDAYF)
-- 👥 Community Discussions: [https://t.me/ssmartmachinesDAYF](https://t.me/ssmartmachinesDAYF)
+# DAYF Token
+
+**DAYF** — The world's first intelligent robotics token 🤖💎  
+Empowering AI, DeFi, and Web3 in a unified ecosystem.
+
+## Official Links
+
+- 🌐 Website: [https://smartdayf.com](https://smartdayf.com)  
+- 🐦 Twitter (X): [https://x.com/smrtdayf](https://x.com/smrtdayf)  
+- 💬 Telegram Official: [https://t.me/SMRTDAYF](https://t.me/SMRTDAYF)  
+- 👥 Telegram Community: [https://t.me/DAYFDAYF](https://t.me/DAYFDAYF)  
+- 📌 Telegram Support / Contact: [https://t.me/Token_Officer](https://t.me/Token_Officer)  
+- 📧 Email: dayf@smartdayf.com
+
+## Contract
+
+- **Token:** DAYF  
+- **Contract Address:** 0x6206Dd029512fe34e8320Df8e62d0E9B5a04659A  
+- **Network:** BNB (BEP-20)  
+
+## Features
+
+- Intelligent AI integration 🤖  
+- Automated trading & portfolio management 💹  
+- Staking & rewards system 💸  
+- Governance voting 🗳️  
+- Community-driven development 🌐  
 
 ---
 ## 🔐 Smart contract code
