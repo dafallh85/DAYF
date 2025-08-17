@@ -1,14 +1,21 @@
 {
   "name": "DAYF",
   "symbol": "DAYF",
-  "network": "BNB",
-  "type": "BEP-20",
-  "decimals": 18,
-  "totalSupply": "100000000000000",
+  "description": "DAYF — The world's first intelligent robotics token, combining AI, DeFi, and Web3 for a smart, automated ecosystem.",
   "website": "https://smartdayf.com",
-  "email": "dayd@smartdayf.com",
-  "contract": "0x6206Dd029512fe34e8320Df8e62d0E9B5a04659A",
-  "telegram": "https://t.me/SmartDAYF",
-  "community": "https://t.me/ssmartmachinesDAYF",
-  "twitter": "https://x.com/smartdayf"
+  "twitter": "https://x.com/smrtdayf",
+  "telegram_official": "https://t.me/SMRTDAYF",
+  "telegram_community": "https://t.me/DAYFDAYF",
+  "telegram_contact": "https://t.me/Token_Officer",
+  "email": "dayf@smartdayf.com",
+  "contract_address": "0x6206Dd029512fe34e8320Df8e62d0E9B5a04659A",
+  "network": "BNB",
+  "features": [
+    "AI Integration",
+    "Automated Trading",
+    "Portfolio Management",
+    "Staking & Rewards",
+    "Governance Voting",
+    "Community-driven Development"
+  ]
 }
