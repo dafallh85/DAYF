@@ -28,7 +28,8 @@ Empowering AI, DeFi, and Web3 in a unified ecosystem.
 - 💬 Telegram Official
 - https://t.me/SmartDAYF
 - (https://t.me/SMRTDAYF)  
-- 👥 Telegram Community: [https://t.me/DAYFDAYF](https://t.me/DAYFDAYF)  
+- 👥 Telegram Community: [https://t.me/DAYFDAYF]https://t.me/DAYFDAYF
+- 
 - 📌 Telegram Support / Contact: [https://t.me/Token_Officer](https://t.me/Token_Officer)  
 - 📧 Email: dayf@smartdayf.com
 
