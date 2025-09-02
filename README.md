@@ -22,17 +22,15 @@ It is an intelligent robotics project that aims to develop and program intellige
 Empowering AI, DeFi, and Web3 in a unified ecosystem.
 
 ## Official Links
+## 📢 Official Links & Contacts
 
-- 🌐 Website: [https://smartdayf.com](https://smartdayf.com)  
-- 🐦 Twitter :  https://x.com/smartdayf
-- 💬 Telegram Official
-- https://t.me/SmartDAYF
-- https://t.me/DAYFDAYF
-- 👥 Telegram Community: [https://t.me/DAYFDAYF]
-- 
-- 📌 Telegram Support / Contact: [https://t.me/Token_Officer](https://t.me/Token_Officer)  
+- 🌐 Website: [smartdayf.com](https://smartdayf.com/)
+- 🐦 Twitter: [@smartdayf](https://x.com/smartdayf)
+- 💬 Telegram (Official): [SmartDAYF](https://t.me/SmartDAYF)
+- 👥 Telegram (Community): [DAYF Community](https://t.me/DAYFDAYF)
 - 📧 Email: dayf@smartdayf.com
-
+- 🧑‍💼 Token Officer (Contact): Token_Officer
+- 🐙 GitHub Repository: [https://github.com/dafallh85/DAYF](https://github.com/dafallh85/DAYF)
 ## Contract
 
 - **Token:** DAYF  
