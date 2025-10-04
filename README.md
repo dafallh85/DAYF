@@ -31,7 +31,15 @@ Empowering AI, DeFi, and Web3 in a unified ecosystem.
 - 📧 Email: dayf@smartdayf.com
 - 🧑‍💼 📬 Telegram Contact: https://t.me/Token_Officer
 - 🐙 GitHub Repository: [https://github.com/dafallh85/DAYF](https://github.com/dafallh85/DAYF)
-## Contract
+ ## 🎬 Project Video
+
+Watch the official **DAYF** project video on YouTube:
+
+[![Watch on YouTube](https://img.youtube.com/vi/JUEWeky_muA/0.jpg)](https://youtu.be/JUEWeky_muA?si=NaDpmxkJknxSsq5k)
+
+Or open directly via this link:  
+🎥 https://youtu.be/JUEWeky_muA?si=NaDpmxkJknxSsq5k
+ ## Contract
 
 - **Token:** DAYF  
 - **Contract Address:** 0x6206Dd029512fe34e8320Df8e62d0E9B5a04659A  
