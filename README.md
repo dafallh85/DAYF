@@ -24,11 +24,11 @@ Empowering AI, DeFi, and Web3 in a unified ecosystem.
 ## Official Links
 ## 📢 Official Links & Contacts
 
-- 🌐 Website: [smartdayf.com](https://smartdayf.com/)
+- 🌐 Website: [https://dayf.space/]/https://dayf.space/)
 - 🐦 Twitter: [@smrtdayf](https://x.com/smrtdayf)
 - 💬 Telegram (Official): [SmartDAYF](https://t.me/SmartDAYF)
 - 👥 Telegram (Community): [DAYF Community](https://t.me/DAYFDAYF)
-- 📧 Email: dayf@smartdayf.com
+- 📧 Email: dayf@dayf.space
 - 🧑‍💼 📬 Telegram Contact: https://t.me/Token_Officer
 - 🐙 GitHub Repository: [https://github.com/dafallh85/DAYF](https://github.com/dafallh85/DAYF)
  ## 🎬 Project Video
