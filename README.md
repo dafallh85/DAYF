@@ -24,7 +24,7 @@ Empowering AI, DeFi, and Web3 in a unified ecosystem.
 ## Official Links
 ## 📢 Official Links & Contacts
 
-- 🌐 Website: [https://dayf.space/)
+- 🌐 Website: [https://dayf.space/) 🌐 Website: [https://dayf.space/)
 - 🐦 Twitter: (https://x.com/smrtdayf)
 - 💬 Telegram): [SmartDAYF](https://t.me/SmartDAYF)
 - 👥 Telegram : [DAYF Community](https://t.me/DAYFDAYF)
