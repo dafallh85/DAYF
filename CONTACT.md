@@ -6,4 +6,4 @@
 - **Twitter:** [https://x.com/smrtdayf](https://x.com/smrtdayf)  
 - **Telegram (Official):** [https://t.me/SmartDAYF](https://t.me/SmartDAYF)  
 - **Telegram (Community):** [https://t.me/DAYFDAYF](https://t.me/DAYFDAYF)  
-- **GitHub Repository:** [https://github.com/dafallh85/dayf](https://github.com/dafallh85/dayf)
+- **GitHub Repository:** [https://github.com/dafallh85/DAYF.git](https://github.com/dafallh85/DAYF.hit)
