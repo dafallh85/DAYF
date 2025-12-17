@@ -30,7 +30,7 @@ Empowering AI, DeFi, and Web3 in a unified ecosystem.
 - 👥 Telegram : [DAYF Community](https://t.me/DAYFDAYF)
 - 📧 Email: dayf@dayf.space
 - 🧑‍💼 📬 Telegram Contact: https://t.me/Token_Officer
-- 🐙 GitHub Repository: [https://github.com/dafallh85/DAYF](https://github.com/dafallh85/DAYF)
+- 🐙 GitHub Repository: [https://github.com/dafallh85/DAYF.git](https://github.com/dafallh85/DAYF.git)
  ## 🎬 Project Video
 
 Watch the official **DAYF** project video on YouTube:
