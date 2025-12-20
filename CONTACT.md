@@ -7,3 +7,4 @@
 - **Telegram (Official):** [https://t.me/SmartDAYF](https://t.me/SmartDAYF)  
 - **Telegram (Community):** [https://t.me/DAYFDAYF](https://t.me/DAYFDAYF)  
 - **GitHub Repository:** [https://github.com/dafallh85/DAYF.git](https://github.com/dafallh85/DAYF.hit)
+- YouTube/ https://youtu.be/cv14Qs4f_mg?si=dEd5HIUNJiABPJOk
