@@ -84,3 +84,4 @@ The **DAYF** token serves as the main payment method within the robot ecosystem 
 - **Telegram Contact Officer:** [https://t.me/Token_Officer](https://t.me/Token_Officer)  
 - **GitHub Repository:** [https://github.com/dafallh85/DAYF.git](https://github.com/dafallh85/DAYF.git)  
 - **Token Contract on BscScan:** [https://bscscan.com/token/0x6206dd029512fe34e8320df8e62d0e9b5a04659a](https://bscscan.com/token/0x6206dd029512fe34e8320df8e62d0e9b5a04659a)
+- YouTube:https://youtu.be/cv14Qs4f_mg?si=dEd5HIUNJiABPJOk
