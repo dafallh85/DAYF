@@ -21,26 +21,6 @@ It is an intelligent robotics project that aims to develop and program intellige
 **DAYF** — The world's first intelligent robotics token 🤖💎  
 Empowering AI, DeFi, and Web3 in a unified ecosystem.
 
-## Official Links
-## 📢 Official Links & Contacts
-
-- 🌐 Website: [https://dayf.space/) 🌐 Website: [https://dayf.space/)
-- 🐦 Twitter: (https://x.com/smrtdayf)
-- 💬 Telegram): [SmartDAYF](https://t.me/SmartDAYF)
-- 👥 Telegram : [DAYF Community](https://t.me/DAYFDAYF)
-- 📧 Email: dayf@dayf.space
-- 🧑‍💼 📬 Telegram Contact: https://t.me/Token_Officer
-- 🐙 GitHub Repository: [https://github.com/dafallh85/DAYF](https://github.com/dafallh85/DAYF)
-- 🎥YouTube:https://youtu.be/cv14Qs4f_mg?si=dEd5HIUNJiABPJOk
- ## 🎬 Project Video
-
-Watch the official **DAYF** project video on YouTube:
-
-[![Watch on YouTube](https://img.youtube.com/vi/cv14Qs4f_mg/0.jpg)](https://youtu.be/cv14Qs4f_mg)
-
-Or open directly via this link:  
-🎥 https://youtu.be/cv14Qs4f_mg
- ## Contract
 
 - **Token:** DAYF  
 - **Contract Address:** 0x6206Dd029512fe34e8320Df8e62d0E9B5a04659A  
