@@ -39,7 +39,7 @@ Empowering AI, DeFi, and Web3 in a unified ecosystem.
 
 The DAYF contract has been published on BscScan and can be reviewed in the `contracts/DAYF.sol` folder.
 
----https://bscscan.com/token/0x6206dd029512fe34e8320df8e62d0e9b5a04659a
+---token/0x6206dd029512fe34e8320df8e62d0e9b5a04659a
 
 ## 📁 المجلدات
 
