@@ -5,7 +5,7 @@ This roadmap outlines the long-term vision of the ROBOT DAYF AI ecosystem (2026â
 
 ## 2026 â€“ Phase 1: Foundation
 - Official launch of project identity
-- Website release: https://dayf.space
+- Website release: 
 - Social media activation
 - GitHub repository setup
 - Whitepaper 1.0
